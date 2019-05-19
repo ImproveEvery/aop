@@ -352,3 +352,8 @@ public class MyAspect {
     }
 }
 ```
+
+运行test代码，最后执行结果如下图所示：
+
+![执行结果](https://upload-images.jianshu.io/upload_images/8926909-1bf1a28b7579825e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
