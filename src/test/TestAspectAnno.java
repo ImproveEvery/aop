@@ -18,7 +18,7 @@ public class TestAspectAnno {
         UserService userService = (UserService) applicationContext.getBean("userServiceId");
         userService.addUser();
         User user=new User();
-        user.setName("gds");
+        user.setName("tisonKong");
         user.setSubject("ComputerScience");
         user.setScore(98);
         userService.updateUser(user);
